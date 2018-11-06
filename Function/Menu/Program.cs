@@ -61,9 +61,9 @@ namespace Menu
             return num1 * num2;
         }
 
-        static int div(int num1, int num2)
+        static double div(int num1, int num2)
         {
-            return num1 / num2;
+            return (double) num1 / num2;
         }
 
 
