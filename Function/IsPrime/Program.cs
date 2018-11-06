@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Q1
+namespace IsPrime
 {
     class Program
     {
@@ -16,6 +16,7 @@ namespace Q1
             isPrime = IsPrime(num);
             Console.WriteLine(isPrime);
         }
+
         static bool IsPrime(int num)
         {
             int i = 2;

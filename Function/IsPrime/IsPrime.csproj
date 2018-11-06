@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{70B4175F-79B0-4925-A080-A3FC781A259F}</ProjectGuid>
+    <ProjectGuid>{FE28E9F3-0379-4033-A7E0-89EBA0E6DDB3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Q1</RootNamespace>
-    <AssemblyName>Q1</AssemblyName>
+    <RootNamespace>IsPrime</RootNamespace>
+    <AssemblyName>IsPrime</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
